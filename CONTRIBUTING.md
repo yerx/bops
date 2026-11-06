@@ -16,6 +16,10 @@ Bops is released under FSL-1.1-ALv2, and Organic Intelligence, Inc. also runs a 
 
 ## Development
 
+For this fork's working loop, acceptance evidence and release boundaries, read the
+[development playbook](docs/development-playbook.md) and the repository-pinned
+[task router](.agents/skills/portfolio-task-router/SKILL.md).
+
 ```bash
 npm run setup                # dependencies, .env.local from .env.example, and a git hook
 npm run app                  # or: npx next dev --port 3210

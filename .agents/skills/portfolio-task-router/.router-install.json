@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "files": {
+    "SKILL.md": "eb34d50a28e880124ba95e11800933f0ea10d39d232364e2045789ceafbf4d79",
+    "references/evaluation-cases.md": "be96f0a0591c39b975df9a976ae873df258cc9b7a6b2f7aead461fd451645a45",
+    "references/policy.md": "41ccf54f0376c80bf943efbdbd51b280b85ca5d10a0dcbfc9aeb1ad98394e27d",
+    "references/provenance.json": "b708d70ac978e98f8fc29cba8688f6dffed482cf2572476b39dd602acedfa988",
+    "references/routes.md": "c03b1828c301059ff11d9b7448230c48ba600115c590d99602c4d6bcaa5af592"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "bundle_version": "1.0.2",
+  "policy_version": "0.6",
+  "kind": "repo",
+  "canonical_base_commit": "7cb2f98ebae44acee64609d2c9ef1a2912a46c2b",
+  "source_pins": {
+    "matt": "f3fc5632f401156837ee3872f14fe33ccf1024ea",
+    "pstack": "d0ef80d86795816da932a153458c5dbe192d294e"
+  },
+  "hash_scope": "All payload files except this manifest itself; installed receipt additionally hashes this manifest. Pins identify reviewed sources, not installations.",
+  "files": {
+    "SKILL.md": "eb34d50a28e880124ba95e11800933f0ea10d39d232364e2045789ceafbf4d79",
+    "references/evaluation-cases.md": "be96f0a0591c39b975df9a976ae873df258cc9b7a6b2f7aead461fd451645a45",
+    "references/policy.md": "41ccf54f0376c80bf943efbdbd51b280b85ca5d10a0dcbfc9aeb1ad98394e27d",
+    "references/routes.md": "c03b1828c301059ff11d9b7448230c48ba600115c590d99602c4d6bcaa5af592"
+  }
+}
